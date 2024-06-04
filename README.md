@@ -1,6 +1,7 @@
 # [Bitcoin vs Gold]
 ## DESCRIPTION OF THE BUSINESS PROBLEM
 The goal of this project is to provide stakeholders with detailed and efficient analysis regarding the yearly price performance of Gold and Bitcoin to determine which asset will provide a higher return over time.
+
 ## DESCRIPTION OF THE DATA
 * The first data set for the gold price is a data set from kaggle. This dataset provides the year the price was recorded, the average closing price, the yearly opening price, the highest yearly price, the lowest yearly price, the yearly range price, and the yearly close. https://www.kaggle.com/datasets/yafethtb/gold-price-historical-data-1969-2022?select=gold_price_yearly.csv
 * The second dataset for the bitcoin price is from yahoo finance. This data provides the yearly open, the yearly high, the yearly low, the yearly close, the trading volume, and the market cap.
@@ -20,6 +21,7 @@ https://finance.yahoo.com/quote/BTC-USD/history?period1=1410912000&period2=16999
 ![gold-raw-data](https://github.com/dwhite256/BTC-vs-Gold-Case-Study/assets/170587320/e2539254-9e78-4e69-84ea-c0b1af9bd7af)
 #### - Cleaned gold price data
 ![gold-cleaned-data](https://github.com/dwhite256/BTC-vs-Gold-Case-Study/assets/170587320/c43f118b-ac25-41cf-976d-2b450a29c7aa)
+
 ## DATA VISUALIZATION
 ![btc-price-performance-chart](https://github.com/dwhite256/BTC-vs-Gold-Case-Study/assets/170587320/38083594-ed65-4a12-bb79-59ed806d92c7)
 ![gold-price-performance-chart](https://github.com/dwhite256/BTC-vs-Gold-Case-Study/assets/170587320/74870241-4c1f-4959-8c90-ed1a829db7e8)
