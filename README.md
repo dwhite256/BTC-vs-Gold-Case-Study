@@ -1,4 +1,5 @@
-# [Bitcoin vs Gold]
+# Bitcoin vs Gold
+![1](https://github.com/dwhite256/BTC-vs-Gold-Case-Study/assets/170587320/45077191-e691-43a7-8151-7177da4146ee)
 ## DESCRIPTION OF THE BUSINESS PROBLEM
 The goal of this project is to provide stakeholders with detailed and efficient analysis regarding the yearly price performance of Gold and Bitcoin to determine which asset will provide a higher return over time.
 
@@ -7,11 +8,14 @@ The goal of this project is to provide stakeholders with detailed and efficient 
 * The second dataset for the bitcoin price is from yahoo finance. This data provides the yearly open, the yearly high, the yearly low, the yearly close, the trading volume, and the market cap.
 https://finance.yahoo.com/quote/BTC-USD/history?period1=1410912000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true
 
+## CONCLUSION
+In comparison to gold, the return on investment for Bitcoin is substantially larger. Bitcoin is a very volatile asset however, the price swings upward more than compensate for the large dips that occured in the past. When compared to gold, the return on investment for Bitcoin is substantially larger. Bitcoin is also a much newer asset than gold so it the potential for growth is higher. Gold does not suffer from the large drops in price that bitcoin does, but it also does not benefit from the significant increases in price as well. Gold is a much more stable asset but it will not provide investors with any outsized returns on their investment like Bitcoin will.
+
 ## DATA CLEANING PROCESS
 * Raw data for the 2 assets was uploaded to google sheets and data was cleaned.
-* Raw data for both assets was reformatted to only include the open price, lowest price, highest price, and close price for each year of the asset’s price history.
-* The column containing the date in the raw data has been reformatted to only include the year associated with the chosen price metrics and any unnecessary columns have been deleted.
-* The numeric price values have been reformatted to be displayed in dollar format and rounded to two decimal places.
+* Raw data for both assets was formatted to only include the open price, lowest price, highest price, and close price for each year of the asset’s price history.
+* The column containing the date in the raw data has been formatted to only include the year associated with the chosen price metrics and any unnecessary columns have been deleted.
+* The numeric price values have been formatted to be displayed in dollar format and rounded to two decimal places.
 * Only data for the years between 2015-2022 is displayed and the rest of the data has been deleted. 
 #### - Raw Bitcoin price data
 ![btc-raw-data](https://github.com/dwhite256/BTC-vs-Gold-Case-Study/assets/170587320/c51c29af-d6c8-48c2-9dd0-4087f6c8a49a)
@@ -26,8 +30,8 @@ https://finance.yahoo.com/quote/BTC-USD/history?period1=1410912000&period2=16999
 ![btc-price-performance-chart](https://github.com/dwhite256/BTC-vs-Gold-Case-Study/assets/170587320/38083594-ed65-4a12-bb79-59ed806d92c7)
 ![gold-price-performance-chart](https://github.com/dwhite256/BTC-vs-Gold-Case-Study/assets/170587320/74870241-4c1f-4959-8c90-ed1a829db7e8)
 ![percent-return-for-btc-and-gold](https://github.com/dwhite256/BTC-vs-Gold-Case-Study/assets/170587320/b80affcc-5b4a-42ba-ac4f-6bc607dbd825)
+![conclusion](https://github.com/dwhite256/BTC-vs-Gold-Case-Study/assets/170587320/2e7a1b0f-032a-434d-b0ff-735ac76b3176)
 
-## CONCLUSION
-  The analysis that I have done on this data has revealed a few things. The first, most apparent thing that was revealed is that bitcoin’s price performance is wild to say the least. The yearly percentage in price change for bitcoin is very large in both directions but even with the large swings downward in price, the price swings upward more than compensate for these large losses. When compared to gold, the return on investment is much more worthwhile. Gold does not suffer from the large drops in price that bitcoin does, but it also does not benefit from the significant increases in price as well.
+
 
 
