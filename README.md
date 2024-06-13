@@ -1,7 +1,7 @@
 # Bitcoin vs Gold
 ![1](https://github.com/dwhite256/BTC-vs-Gold-Case-Study/assets/170587320/45077191-e691-43a7-8151-7177da4146ee)
 ## DESCRIPTION OF THE BUSINESS PROBLEM
-The goal of this project is to provide stakeholders with detailed and efficient analysis regarding the yearly price performance of Gold and Bitcoin to determine which asset will provide a higher return over time.
+The goal of this project is to provide stakeholders with detailed and efficient analysis regarding the yearly price performance of Gold and Bitcoin to determine which asset will provide a higher return over time for their clients.
 
 ## DESCRIPTION OF THE DATA
 * The first data set for the gold price is a data set from kaggle. This dataset provides the year the price was recorded, the average closing price, the yearly opening price, the highest yearly price, the lowest yearly price, the yearly range price, and the yearly close. https://www.kaggle.com/datasets/yafethtb/gold-price-historical-data-1969-2022?select=gold_price_yearly.csv
@@ -26,7 +26,7 @@ In comparison to gold, the return on investment for Bitcoin is substantially lar
 #### - Cleaned gold price data
 ![gold-cleaned-data](https://github.com/dwhite256/BTC-vs-Gold-Case-Study/assets/170587320/c43f118b-ac25-41cf-976d-2b450a29c7aa)
 
-## DATA VISUALIZATION
+## DATA VISUALIZATIONS
 ![btc-price-performance-chart](https://github.com/dwhite256/BTC-vs-Gold-Case-Study/assets/170587320/38083594-ed65-4a12-bb79-59ed806d92c7)
 ![gold-price-performance-chart](https://github.com/dwhite256/BTC-vs-Gold-Case-Study/assets/170587320/74870241-4c1f-4959-8c90-ed1a829db7e8)
 ![percent-return-for-btc-and-gold](https://github.com/dwhite256/BTC-vs-Gold-Case-Study/assets/170587320/b80affcc-5b4a-42ba-ac4f-6bc607dbd825)
