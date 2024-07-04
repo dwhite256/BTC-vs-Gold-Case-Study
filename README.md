@@ -25,6 +25,7 @@ In comparison to gold, the return on investment for Bitcoin is substantially lar
 ![gold-raw-data](https://github.com/dwhite256/BTC-vs-Gold-Case-Study/assets/170587320/e2539254-9e78-4e69-84ea-c0b1af9bd7af)
 #### - Cleaned gold price data
 ![gold-cleaned-data](https://github.com/dwhite256/BTC-vs-Gold-Case-Study/assets/170587320/c43f118b-ac25-41cf-976d-2b450a29c7aa)
+* [LINK TO GOOGLE SHEET](https://docs.google.com/spreadsheets/d/1mr9c_IqPS4TBXqmGFxzIbQeZ3H4pwVASPoMD-5m7g1M/edit?usp=sharing)
 
 ## DATA VISUALIZATIONS
 ![btc-price-performance-chart](https://github.com/dwhite256/BTC-vs-Gold-Case-Study/assets/170587320/38083594-ed65-4a12-bb79-59ed806d92c7)
